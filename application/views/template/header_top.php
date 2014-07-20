@@ -20,7 +20,7 @@
 
 		<?php
 			// Bootstrap CSS
-			echo link_tag('assets/css/mystyles.css');
+			echo link_tag('assets/css/main.css');
 			
 			// Bootstrap Theme
 			echo link_tag('assets/css/bootstrap-theme.css');
@@ -29,7 +29,7 @@
 			
 			// Font Icon
 			echo link_tag('assets/css/elegant-icons-style.css');
-			echo link_tag('assets/font-awesome/css/font-awesome.css');
+			echo link_tag('plugins/font-awesome/css/font-awesome.min.css');
 			
 			/******* CUSTOM STYLES *********/
 			
@@ -40,7 +40,7 @@
 
     	<!-- HTML5 shim and Respond.js IE8 support of HTML5 -->
     	<!--[if lt IE 9]>
-    		<script src="js/html5shiv.js"></script>
-    		<script src="js/respond.min.js"></script>
+    		<script src="assets/js/html5shiv.js"></script>
+    		<script src="assets/js/respond.min.js"></script>
     	<![endif]-->
 </head>

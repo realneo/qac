@@ -2,19 +2,13 @@
  <!-- container section start -->
  <section id="container" class="">
      <!--header start-->
-     <div class="alert alert-block alert-danger fade in karmanta-pro">
-         <button data-dismiss="alert" class="close close-sm" type="button">
-             <i class="icon-remove"></i>
-         </button>
-         <h3><strong>Heya !</strong> Download KARMANTA Full version in just 8$  :  <a href="http://dmartify.com/live-preview/?theme_id=10631" target="_blank">DEMO</a>  |  <a href="http://dmartify.com/downloads/karmanta-bootstrap-3-responsive-admin-template/" target="_blank">BUY NOW!</a></h3> 
-     </div>
      <header class="header white-bg">
            <div class="toggle-nav">
                <div class="icon-reorder tooltips" data-original-title="Toggle Navigation" data-placement="bottom"></div>
            </div>
 
            <!--logo start-->
-           <a href="index.html" class="logo">Karm<span>anta</span> <span class="lite">Lite</span></a>
+           <a href="index.html" class="logo">Quality<span>Arusha</span> <span class="lite">Chicks</span></a>
            <!--logo end-->
 
            <div class="nav search-row" id="top_menu">
@@ -129,7 +123,7 @@
                            </li>
                            <li>
                                <a href="#">
-                                   <span class="photo"><img alt="avatar" src="./img/avatar-mini.jpg"></span>
+                                   <span class="photo"><img alt="avatar" src="assets/img/avatar-mini.jpg"></span>
                                    <span class="subject">
                                    <span class="from">Greg  Martin</span>
                                    <span class="time">1 min</span>
@@ -141,7 +135,7 @@
                            </li>
                            <li>
                                <a href="#">
-                                   <span class="photo"><img alt="avatar" src="./img/avatar-mini2.jpg"></span>
+                                   <span class="photo"><img alt="avatar" src="assets/img/avatar-mini2.jpg"></span>
                                    <span class="subject">
                                    <span class="from">Bob   Mckenzie</span>
                                    <span class="time">5 mins</span>
@@ -153,7 +147,7 @@
                            </li>
                            <li>
                                <a href="#">
-                                   <span class="photo"><img alt="avatar" src="./img/avatar-mini3.jpg"></span>
+                                   <span class="photo"><img alt="avatar" src="assets/img/avatar-mini3.jpg"></span>
                                    <span class="subject">
                                    <span class="from">Phillip   Park</span>
                                    <span class="time">2 hrs</span>
@@ -165,7 +159,7 @@
                            </li>
                            <li>
                                <a href="#">
-                                   <span class="photo"><img alt="avatar" src="./img/avatar-mini4.jpg"></span>
+                                   <span class="photo"><img alt="avatar" src="assets/img/avatar-mini4.jpg"></span>
                                    <span class="subject">
                                    <span class="from">Ray   Munoz</span>
                                    <span class="time">1 day</span>
@@ -231,7 +225,7 @@
                    <li class="dropdown">
                        <a data-toggle="dropdown" class="dropdown-toggle" href="#">
                            <span class="profile-ava">
-                               <img alt="" src="img/avatar1_small.jpg">
+                               <img alt="" src="assets/img/avatar1_small.jpg">
                            </span>
                            <span class="username">Jhon Doe</span>
                            <b class="caret"></b>
