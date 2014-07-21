@@ -1,4 +1,15 @@
 <body class="login-img3-body">
+	<?php
+		
+		if(!$this->session->flashdata('notify')){
+			$notify = '';
+		}else{
+			$notify = $this->session->flashdata('notify');
+			$type = $notify['type'];
+			$notify = $notify['msg'];
+			echo "<div class='alert alert-$type' role='alert'>$notify</div>";
+		}
+	?>
     <div class="container">
 		<?php echo form_open('login/login_process', array('class'=>'login-form')); ?>     
     	<div class="login-wrap">

@@ -1,0 +1,19 @@
+# Adding Individual Files
+.DS_Store
+.gitignore.swp
+404.html
+basic_table.html
+blank.html
+buttons.html
+chart-chartjs.html
+documentation.html
+form_component.html
+form_validation.html
+general.html
+gitignore
+grids.html
+index.html
+license.txt
+login.html
+profile.html
+widgets.html

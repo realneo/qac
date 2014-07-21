@@ -2,7 +2,7 @@
 	echo doctype('html5');
 	
 	$meta = array(
-	        array('name' => 'robots', 'content' => 'no-cache'),
+	        array('name' => 'robots', 'content' => 'cache'),
 	        array('name' => 'description', 'content' => 'Quality Arusha Chicks'),
 	        array('name' => 'keywords', 'content' => 'Chicks, Chicken, Arusha, Quality'),
 	        array('name' => 'author', 'content' => 'Yoteyote'),
